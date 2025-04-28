@@ -18,3 +18,4 @@ Personal Notes
   Read up on the differences of "" and ``
   Pay more attention to formatting
   
+https://jwinegar06.github.io/News-Weather2/
